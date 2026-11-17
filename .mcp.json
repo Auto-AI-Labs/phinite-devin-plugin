@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "phinite": {
+      "url": "${PHINITE_MCP_URL:-https://mcp.dev.phinite.ai/mcp}",
+      "tokenScope": "user",
+      "description": "Phinite platform tools: build, ship, run and debug agent graphs as the signed-in user."
+    }
+  }
+}
